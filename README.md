@@ -1,3 +1,5 @@
+Homework for @zraurum
+
 # Wikipedia Movies Scraper
 
 Scrapy-паук для сбора информации о фильмах из русской Википедии 
